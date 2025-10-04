@@ -65,8 +65,9 @@ A comprehensive backend API for the Books4MU bookstore application built with No
 2. Create a new Web Service
 3. Set the following environment variables in Render dashboard:
    ```
-   MONGO_URI_PROD=your_mongodb_atlas_connection_string
-   JWT_SECRET_PROD=your_secure_random_jwt_secret
+   27017/booksmongodb://localhost:4u
+   s_yv1D7x3F!k8JzL0g@r4Pq2T9uE6aBcC&eWmMhN5oXjZlYt0
+
    ```
 4. The PORT will be automatically set by Render
 5. Deploy the service
