@@ -1,0 +1,21 @@
+{"level":"info","message":"Serving static files from:","service":"backend-service","timestamp":"2025-10-04T17:17:04.802Z"}
+{"level":"info","message":"Server running on port 5000","service":"backend-service","timestamp":"2025-10-04T17:17:04.815Z"}
+{"level":"info","message":"MongoDB connected","service":"backend-service","timestamp":"2025-10-04T17:17:04.858Z"}
+{"level":"info","message":"Serving static files from:","service":"backend-service","timestamp":"2025-10-04T17:18:22.023Z"}
+{"level":"info","message":"Server running on port 5000","service":"backend-service","timestamp":"2025-10-04T17:18:22.035Z"}
+{"level":"info","message":"MongoDB connected","service":"backend-service","timestamp":"2025-10-04T17:18:22.062Z"}
+{"level":"info","message":"Serving static files from:","service":"backend-service","timestamp":"2025-10-04T17:20:57.315Z"}
+{"level":"info","message":"Server running on port 5000","service":"backend-service","timestamp":"2025-10-04T17:20:57.327Z"}
+{"level":"info","message":"MongoDB connected","service":"backend-service","timestamp":"2025-10-04T17:20:57.356Z"}
+{"level":"info","message":"Serving static files from:","service":"backend-service","timestamp":"2025-10-04T17:21:07.268Z"}
+{"level":"info","message":"Server running on port 5000","service":"backend-service","timestamp":"2025-10-04T17:21:07.282Z"}
+{"level":"info","message":"MongoDB connected","service":"backend-service","timestamp":"2025-10-04T17:21:07.323Z"}
+{"level":"info","message":"Serving static files from:","service":"backend-service","timestamp":"2025-10-04T17:25:02.951Z"}
+{"level":"info","message":"Server running on port 5000","service":"backend-service","timestamp":"2025-10-04T17:25:02.962Z"}
+{"level":"info","message":"MongoDB connected","service":"backend-service","timestamp":"2025-10-04T17:25:02.989Z"}
+{"level":"info","message":"Serving static files from:","service":"backend-service","timestamp":"2025-10-04T17:26:11.764Z"}
+{"level":"info","message":"Server running on port 5000","service":"backend-service","timestamp":"2025-10-04T17:26:11.773Z"}
+{"level":"info","message":"MongoDB connected","service":"backend-service","timestamp":"2025-10-04T17:26:11.799Z"}
+{"level":"info","message":"Serving static files from:","service":"backend-service","timestamp":"2025-10-04T17:26:44.353Z"}
+{"level":"info","message":"Server running on port 5000","service":"backend-service","timestamp":"2025-10-04T17:26:44.364Z"}
+{"level":"info","message":"MongoDB connected","service":"backend-service","timestamp":"2025-10-04T17:26:44.401Z"}
