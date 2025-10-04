@@ -18,12 +18,7 @@ const JWT_SECRET = process.env.JWT_SECRET_PROD || process.env.JWT_SECRET;
 // Middleware
 app.use(helmet());
 app.use(cors({
-  origin: [
-    "https://book4mu-794ca.web.app",  // your Firebase app
-    "https://book4mu-794ca.firebaseapp.com", // optional (Firebase preview)
-    "http://localhost:5000", // for local dev
-    "http://127.0.0.1:5000" // for local dev
-  ],
+  origin: 'https://vercel-frontend-cwneq50pv-ashish-s-projects-8ddd0528.vercel.app',
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true
 }));
